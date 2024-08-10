@@ -1,0 +1,12 @@
+body {
+    background: #fff;
+    font-family: Barlow, sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.pricingTable .pricing-content ul li {
+    color: #a7a8aa;
+    line-height: 30px;
+    font-size: 15px;
+}

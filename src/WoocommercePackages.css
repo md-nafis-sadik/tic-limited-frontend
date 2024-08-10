@@ -1,0 +1,19 @@
+.generic_head_price li{
+    padding: 15px 0;
+    font-family: Lato, sans-serif;
+    font-size: 18px;
+    transition: all .3s ease-in-out 0s;
+    color: rgb(165, 165, 165);
+
+}
+
+.generic_head_price li:hover{
+
+    border-left: solid 5px rgb(74 222 128);
+    background-color: rgb(224, 224, 224);
+}
+
+.generic_head_price li b{
+
+    color: #414141
+}

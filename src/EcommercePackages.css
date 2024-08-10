@@ -1,0 +1,18 @@
+.single-price h3 {
+    font-family: poppins;
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.single-price h4 {
+    color: #fff;
+    font-size: 48px;
+    font-weight: 500;
+}
+
+.deal-item li{
+    padding: 15px 0 15px 0;
+    border-top: 1px solid #e4e4e4;
+
+}
