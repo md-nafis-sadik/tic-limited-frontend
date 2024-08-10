@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# pidsoft
+# TIC LIMITED FRONTEND
 =======
 # React + Vite
 
